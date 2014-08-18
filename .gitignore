@@ -1,0 +1,9 @@
+Library
+Temp
+Deploy
+
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.userprefs
